@@ -1,2 +1,13 @@
 enableGitInfo = true
 theme = "dark-theme"
+
+[params.globalFrontmatter]
+author = "Spritefalcon"
+
+[params.header]
+title = "spritefalcon.github.io"
+subtitle = "A Hugo-powered site"
+
+[params.homePage]
+siteLongDescription = "Welcome to my new site built with Hugo!"
+showRecentPostsBlock = true

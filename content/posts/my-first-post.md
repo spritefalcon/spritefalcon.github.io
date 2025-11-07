@@ -1,11 +1,7 @@
 ---
 title: "My First Post"
-date: 2025-11-06T22:35:53-08:00
-author: Jing Wang
-tags: ["put", "some", "tags", "here"]
-categories: ["catgorized", "the", "page"]
-description: "Description of this page."
-keywords: "keywords,used,for,SEO"
+date: 2025-11-06
+description: "This is a test."
 draft: false
 includeToc: true
 localCss: []
@@ -17,4 +13,4 @@ externalJsDownload: []
 useMath: false
 ---
 
-
+This is a test.
